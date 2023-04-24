@@ -20,5 +20,5 @@ jekyll serve - This will serve the blog locally
 
 # Changing Jekyll Themes
 
-Please see <a href="https://www.inmotionhosting.com/support/website/jekyll/how-to-change-your-jekyll-theme-with-rubygems/#:~:text=How%20to%20Change%20Your%20Jekyll%20Theme%201%20Open,the%20build%20command%20Copy%20bundle%20exec%20jekyll%20serve
+Please see <a href="https://www.inmotionhosting.com/support/website/jekyll/how-to-change-your-jekyll-theme-with-rubygems/#:~:text=How%20to%20Change%20Your%20Jekyll%20Theme%201%20Open,the%20build%20command%20Copy%20bundle%20exec%20jekyll%20serve"
 >this link</a>.
