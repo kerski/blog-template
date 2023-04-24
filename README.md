@@ -3,16 +3,20 @@ Blog Template using Jekyll and Azure DevOps
 
 # Pre-requisites
 
-1. For Windows please follow the instructions for installing Ruby: https://jekyllrb.com/docs/installation/windows/#installation-via-rubyinstaller
+1. Git For Windows installed: https://gitforwindows.org/
+2. Visual Studio Code installed: https://code.visualstudio.com/download
+3. For Windows please follow the instructions for installing Ruby: https://jekyllrb.com/docs/installation/windows/#installation-via-rubyinstaller
 Please make sure to use the default settings when running the installer.
 
-# Building File
+# Commands
+
+## Building File
 
 jekyll build - This will build the blog into the site locally.
 
-# Serving Blog Locally
+## Serving Blog Locally
 
-jekyll serve
+jekyll serve - This will serve the blog locally
 
 # Changing Jekyll Themes
 
